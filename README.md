@@ -69,7 +69,6 @@ Gunakan situs ini buat nampilin portofolio dan artikel blog. Kamu bisa edit kont
 > - [📦 Fitur](#-fitur)
 > - [📂 Struktur Repo](#-struktur-repo)
 > - [🧩 Modul](#-modul)
-> - [🚀 Cara Mulai](#-cara-mulai)
 >   - [⚙️ Instalasi](#️-instalasi)
 >   - [🤖 Jalankan RevoU](#-jalankan-revou)
 >   - [🧪 Tes](#-tes)
@@ -157,15 +156,15 @@ Berikut adalah fitur-fitur yang ada di situs Timotius GitHub Pages:
 
 | File                                                                            | Ringkasan                         |
 | ---                                                                             | ---                             |
-| [stores.html](https://github.com/Samuel-08/RevoU/blob/master/stores.html)       | <code>► TULIS DISINI</code> |
-| [index.html](https://github.com/Samuel-08/RevoU/blob/master/index.html)         | <code>► TULIS DISINI</code> |
-| [source.js](https://github.com/Samuel-08/RevoU/blob/master/source.js)           | <code>► TULIS DISINI</code> |
-| [script.js](https://github.com/Samuel-08/RevoU/blob/master/script.js)           | <code>► TULIS DISINI</code> |
-| [About.html](https://github.com/Samuel-08/RevoU/blob/master/About.html)         | <code>► TULIS DISINI</code> |
-| [unknow.html](https://github.com/Samuel-08/RevoU/blob/master/unknow.html)       | <code>► TULIS DISINI</code> |
-| [index-New.html](https://github.com/Samuel-08/RevoU/blob/master/index-New.html) | <code>► TULIS DISINI</code> |
-| [CUSTOMS.html](https://github.com/Samuel-08/RevoU/blob/master/CUSTOMS.html)     | <code>► TULIS DISINI</code> |
-| [Contact.html](https://github.com/Samuel-08/RevoU/blob/master/Contact.html)     | <code>► TULIS DISINI</code> |
+| [stores.html](https://github.com/Samuel-08/RevoU/blob/master/stores.html)       | <code>Halaman stores</code> |
+| [index.html](https://github.com/Samuel-08/RevoU/blob/master/index.html)         | <code>Halaman index</code> |
+| [source.js](https://github.com/Samuel-08/RevoU/blob/master/source.js)           | <code>Halaman source.js</code> |
+| [script.js](https://github.com/Samuel-08/RevoU/blob/master/script.js)           | <code>Halaman script.js</code> |
+| [About.html](https://github.com/Samuel-08/RevoU/blob/master/About.html)         | <code>Halaman about</code> |
+| [unknow.html](https://github.com/Samuel-08/RevoU/blob/master/unknow.html)       | <code>Halaman 404</code> |
+| [index-New.html](https://github.com/Samuel-08/RevoU/blob/master/index-New.html) | <code>Halaman index Versi 2</code> |
+| [CUSTOMS.html](https://github.com/Samuel-08/RevoU/blob/master/CUSTOMS.html)     | <code>Halaman kustomisasi</code> |
+| [Contact.html](https://github.com/Samuel-08/RevoU/blob/master/Contact.html)     | <code>Halaman Kontak</code> |
 
 </details>
 
@@ -173,30 +172,12 @@ Berikut adalah fitur-fitur yang ada di situs Timotius GitHub Pages:
 
 | File                                                                        | Ringkasan                         |
 | ---                                                                         | ---                             |
-| [styles.css](https://github.com/Samuel-08/RevoU/blob/master/css/styles.css) | <code>► TULIS DISINI</code> |
+| [styles.css](https://github.com/Samuel-08/RevoU/blob/master/css/styles.css) | <code>Halaman CSS</code> |
 
 </details>
 
 ---
-
-## 🚀 Cara Mulai
-
-**Kebutuhan**
-
-Pastikan kamu udah install yang berikut ini di sistem kamu:
-
-* **HTML**: `versi x.y.z`
-
-### ⚙️ Instalasi
-
-1. Clone repo RevoU:
-
-```sh
-[git clone https://github.com/Samuel-08/RevoU](https://github.com/Samuel-08/timotius09.github.io)
-``` 
  
----
-
 ## 🛠 Roadmap Proyek
 
 ### Rencana Jangka Pendek (1-3 Bulan)
@@ -262,9 +243,6 @@ Proyek ini dilindungi di bawah [Lisensi MIT](https://choosealicense.com/licenses
 
 ---
 
-## 👏 Penghargaan
-
-- Daftar sumber daya, kontributor, inspirasi, dll. di sini.
 
 [**Kembali**](#-link-cepat)
 
