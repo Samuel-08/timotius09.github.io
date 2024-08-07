@@ -182,15 +182,23 @@ Berikut adalah fitur-fitur yang ada di situs Timotius GitHub Pages:
 
 ### Rencana Jangka Pendek (1-3 Bulan)
  [✔] Desain ulang tampilan halaman utama untuk lebih menarik
+ 
  [✔] Tambah konten baru di blog, minimal 5 artikel baru
+ 
  [✔] Integrasi fitur komentar di setiap artikel
+ 
  [✔] Perbaiki bug dan optimasi performa situs
+
 
 ### Rencana Jangka Menengah (4-6 Bulan)
  [✔] Implementasi SEO untuk meningkatkan visibilitas
+
  [✔] Tambahkan fitur pencarian untuk memudahkan navigasi
+ 
  [✔] Buat halaman portofolio yang lebih interaktif
+ 
  [✔] Implementasi analitik untuk melacak pengunjung dan interaksi
+
 
 ### Rencana Jangka Panjang (6 Bulan - 1 Tahun)
 - [ ] Buat komunitas online atau forum untuk diskusi
