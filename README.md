@@ -6,7 +6,7 @@
     <h1 align="left">REVOU</h1>
 </p>
 <p align="left">
-    <em><code>► TULIS DISINI</code></em>
+    <em><code>MY PERSONAL PAGE TIMOTIUS</code></em>
 </p>
 <p align="left">
 	<img src="https://img.shields.io/github/license/Samuel-08/RevoU?style=flat&color=0080ff" alt="lisensi">
